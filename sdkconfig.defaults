@@ -1,0 +1,5 @@
+# 1 тік FreeRTOS = 1 мс: без цього vTaskDelay(1) = 10 мс, а спосіб 4 читає пін кожні 5 мс
+CONFIG_FREERTOS_HZ=1000
+# Консоль (printf + клавіші) — у роз'єм «USB», як ARDUINO_USB_CDC_ON_BOOT=1 у домашці 2.4
+CONFIG_ESP_CONSOLE_USB_SERIAL_JTAG=y
+CONFIG_ESPTOOLPY_FLASHSIZE_16MB=y
