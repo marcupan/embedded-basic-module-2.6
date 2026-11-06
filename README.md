@@ -3,7 +3,9 @@
 Домашнє завдання курсу Embedded Basic: завдання уроку 2.4, але на ESP-IDF, без Arduino.
 Плата ESP32-S3-WROOM-1-N16R8, PlatformIO, ESP-IDF 6.1.0.
 
-Відео: [demo.mp4](demo.mp4)
+![Демонстрація: кнопка і лог у консолі](demo.webp)
+
+Анімація — перші 20 с. Відео повністю (53 с): [demo.mp4](demo.mp4)
 
 ## Схема
 
